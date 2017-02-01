@@ -1,9 +1,0 @@
-def getRandomMovie(self):
-
-    return "The Big Lebowski"
-
-def get(self):
-    movie = self.GetRandomMovie()
-
-    content= <h1>"Movie of the Day"</h1>
-    content = <h2> + movie + </h2>
